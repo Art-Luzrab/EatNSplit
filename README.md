@@ -1,1 +1,1 @@
-# EatNSpit
+# EatNSplit
